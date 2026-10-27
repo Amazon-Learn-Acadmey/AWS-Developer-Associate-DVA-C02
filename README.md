@@ -68,6 +68,5 @@ This is a suggested learning progression, not a mandatory certification sequence
 
 Combine official AWS exam preparation materials with practical application development and troubleshooting exercises.
 
-- **Official AWS Resources**: Review the [AWS Certified Developer - Associate page](https://aws.amazon.com/certification/certified-developer-associate/) and the [official DVA-C02 exam guide](https://docs.aws.amazon.com/aws-certification/latest/developer-associate-02/developer-associate-02.html). Check AWS's published DVA-C03 transition dates before scheduling.
 - **CertsGate**: Explore [DVA-C02 certification preparation resources](https://certsgate.com/exams/amazon/dva-c02) for supplementary study materials and practice questions.
 - **Practical AWS Development**: Use the [AWS Lambda Developer Guide](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html) to explore serverless application development, testing, deployment, and troubleshooting.
